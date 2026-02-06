@@ -3,4 +3,5 @@
 
 
 **Emotion Recognition** using FisherFace algorithm <br>
-![preview](preview/preview.gif)<br
+![preview](preview/preview.gif)<br>
+
